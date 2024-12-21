@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Arshad</h1>
+<h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">A Passionate Flutter Developer from India</h3>
 
 ---
@@ -12,14 +12,14 @@
 ### 💡 About Me:
 - 🌱 I’m currently honing my skills in **Flutter & Firebase**.
 - 💬 Ask me about **Flutter, Dart, and Firebase integration**.
-- 📫 How to reach me: **mohammedarshadar3@gmail.com**
+- 📫 How to reach me: **79junaidlc@gmail.com**
 - ⚡ Fun fact: I believe **learning never stops!**
 
 ---
 
 ### 🌐 Connect With Me:
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mohammed-arshad-628854231" target="_blank">
+  <a href="https://www.linkedin.com/in/junaidlc" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/ar.xhad" target="_blank">
