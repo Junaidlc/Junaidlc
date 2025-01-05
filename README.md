@@ -70,6 +70,10 @@
 - 🛒 **E-commerce App**: Built with Flutter & Firebase.
 - 🍔 **Food Delivery App**: A seamless user experience for food ordering and delivery.
 - 📱 **Chat App**: Real-time chat with integrated voice notes.
+- 🎥 **Netflix Clone**: A movie and TV show streaming app with a sleek UI and robust features.
+- 🎮 **Bubble Trouble Game**: A fun and interactive bubble-shooting arcade game.
+- 🐦 **Flappy Bird Game**: A classic side-scrolling game with custom animations and smooth gameplay.
+- 🏗️ **Construction Equipment Website**: A professional website showcasing construction machinery and equipment.
 
 ---
 
